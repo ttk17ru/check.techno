@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "Agency FB";
+  src: url("/fonts/AGENCYB.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Franklin Gothic Heavy";
+  src: url("/fonts/fghr.ttf") format("truetype");
+}
+
 body {
     height: 100vh;
     width: 100%;
@@ -88,4 +98,5 @@ body {
 
 .data_inp_con button:active {
     opacity: 65%;
+
 }
